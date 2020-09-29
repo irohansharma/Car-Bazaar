@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938593522283",
+    "firebase_url": "https://car-bazaar-c9ab4.firebaseio.com",
+    "project_id": "car-bazaar-c9ab4",
+    "storage_bucket": "car-bazaar-c9ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938593522283:android:7921eadc3cf025c5",
+        "android_client_info": {
+          "package_name": "com.example.car_bazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938593522283-6d01ab8fc8mgkpa3hqmtkh9abbrfljb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yyRolMzH1U6mmy8F1JeUznFj03ySVKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938593522283-6d01ab8fc8mgkpa3hqmtkh9abbrfljb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
