@@ -217,24 +217,12 @@ class _DetailPageState extends State<DetailPage> {
                                  {}
                              ),
                            ),
-                           /*RaisedButton(
-                               child: Text("Message"),
-                               color: Colors.deepOrangeAccent,
-                               splashColor: Colors.white,
-                               highlightColor: Colors.white30,
-                               onPressed: () {
-
-                                 }
-                               ),
-                           */
+                        
                          ),
 
                        ],
                      ),
                    )
-
-
-
                 ],
               ),
             ),
